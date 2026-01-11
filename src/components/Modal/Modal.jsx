@@ -41,7 +41,7 @@ class Modal extends Component {
           onClick={(e) => e.stopPropagation()}
         >
           <h2>Modal window</h2>
-          <img src="https://i.pinimg.com/1200x/06/7a/9b/067a9be78604a82983c7c405f0c9e109.jpg"></img>
+          <img src="https://i.pinimg.com/1200x/06/7a/9b/067a9be78604a82983c7c405f0c9e109.jpg" alt="img-modal"></img>
 
           <button
             className="modal-close-btn"
